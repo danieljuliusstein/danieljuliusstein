@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 **Connect with me:**
 
-[<img alt="twitter" width="40px" src="linkedin.svg" />](https://www.linkedin.com/in/daniel-stein-8a36b8276/)
+[<img alt="twitter" width="40px" src="twitter.svg" />](https://www.linkedin.com/in/daniel-stein-8a36b8276/)
 [<img alt="linked in profile" width="40px" src="linkedin.svg" />](https://www.linkedin.com/in/daniel-stein-8a36b8276/)
-[<img alt="instagram" width="40px" src="linkedin.svg" />](https://www.linkedin.com/in/daniel-stein-8a36b8276/)
+[<img alt="instagram" width="40px" src="instagram.svg" />](https://www.linkedin.com/in/daniel-stein-8a36b8276/)
 
 **Languages and Tools:**
