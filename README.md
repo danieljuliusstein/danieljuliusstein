@@ -38,3 +38,4 @@ You can click the Preview link to take a look at your changes.
 
 [<img alt="simon" width="100px" src="simon.svg" />](https://github.com/danieljuliusstein/Python-Projects-/blob/main/Simon%20Game)
 [<img alt="mario" width="100px" src="mario-removebg-preview.png" />](https://github.com/danieljuliusstein/Mario-Game)
+[<img alt="crypto" width="150px" src="Crypto.png" />](https://github.com/danieljuliusstein/HTML-/blob/main/CryptoValueCalculator)
