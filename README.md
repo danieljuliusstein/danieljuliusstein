@@ -35,3 +35,5 @@ You can click the Preview link to take a look at your changes.
 ------------------------
 
 **Portfolio/My Work:**
+
+[<img alt="simon" width="100px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/c3753132-a0d1-4b5f-8dd0-8ea2a0a64deb" />](https://github.com/danieljuliusstein/Python-Projects-/blob/main/Simon%20Game)
