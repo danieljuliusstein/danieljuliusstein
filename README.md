@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 **Connect with me:**
 
-[<img alt="twitter" width="35px" src="twitter.svg" />](https://www.linkedin.com/in/daniel-stein-8a36b8276/)
+[<img alt="twitter" width="35px" src="twitter.svg" />](https://twitter.com/danielj_stein)
 [<img alt="linked in profile" width="35px" src="linkedin.svg" />](https://www.linkedin.com/in/daniel-stein-8a36b8276/)
 [<img alt="instagram" width="35px" src="instagram.svg" />](https://www.instagram.com/danieljuliusstein/)
 
