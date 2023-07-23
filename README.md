@@ -49,13 +49,6 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljuliusstein&show_icons=true&locale=en" alt="danieljuliusstein" /></p>
 
-  // Send the generated SVG as the result
-  res.send(getCountImage(counter));
-})
-
-const listener = app.listen(process.env.PORT, () => {
-  console.log('Your app is listening on port ' + listener.address().port)
-})
 <!-- Copy and Paste Me -->
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
   <iframe
