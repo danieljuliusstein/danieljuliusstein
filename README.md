@@ -39,3 +39,13 @@ You can click the Preview link to take a look at your changes.
 [<img alt="simon" width="100px" src="simon.svg" />](https://github.com/danieljuliusstein/Python-Projects-/blob/main/Simon%20Game)
 [<img alt="mario" width="100px" src="mario-removebg-preview.png" />](https://github.com/danieljuliusstein/Mario-Game)
 [<img alt="crypto" width="150px" src="Crypto.png" />](https://github.com/danieljuliusstein/HTML-/blob/main/CryptoValueCalculator)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljuliusstein&label=Profile%20views&color=0e75b6&style=flat" alt="danieljuliusstein" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieljuliusstein" alt="danieljuliusstein" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljuliusstein&show_icons=true&locale=en" alt="danieljuliusstein" /></p>
