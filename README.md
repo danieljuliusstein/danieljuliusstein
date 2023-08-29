@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 **In Progress:**
 
-[<img alt="pass" width="100px" src="" />](
+[<img alt="pass" width="100px" src="passGenerator.png" />](https://github.com/danieljuliusstein/PassGeneratorHTML)
 
 ------------------------
 
