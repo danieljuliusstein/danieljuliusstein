@@ -53,3 +53,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljuliusstein&show_icons=true&locale=en" alt="danieljuliusstein" /></p>
 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
