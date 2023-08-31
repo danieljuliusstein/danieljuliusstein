@@ -52,5 +52,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljuliusstein&show_icons=true&locale=en" alt="danieljuliusstein" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danieljuliusstein" alt="danieljuliusstein" /></p>
 
-(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danieljuliusstein)
