@@ -1,7 +1,8 @@
  *Hi! I'm Daniel Stein*
 
 - 👀 I’m interested in expanding my coding expertise 
-- 🤝  I’m looking to collaborate on web/mobile applications 
+- 🤝 I’m looking to collaborate on web/mobile applications
+- 📖 I'm learning and applying machine learning into real life problems
 
 <!---
 danieljuliusstein/danieljuliusstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
