@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
 <img alt="sql" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/c272d6ed-c9e7-441c-abe5-efc8e5222e0d" />
 <img alt="nodejs" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/1dd19886-d4ba-4978-b9bf-73f2975d623b" />
 <img alt="react" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/52427d05-d604-43ab-a495-122351cc8157" />
+<img alt="Java" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/560d82ec-16e2-441e-a720-8d697ecc3a50)" />
+
 
 ------------------------
 
