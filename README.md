@@ -11,13 +11,17 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-stein-8a36b8276/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://rinsehq.com">
     <img src="https://img.shields.io/static/v1?message=Rinse&label=&color=2563EB&style=for-the-badge" height="25" alt="Rinse" />
   </a>
   <a href="https://x.com/stein_danielj">
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="X" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/danieljuliusstein/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
   </a>
 </div>
 
