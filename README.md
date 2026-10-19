@@ -1,59 +1,131 @@
- *Hi! I'm Daniel Stein*
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer working at a computer" />
+</div>
 
-- 👀 I’m interested in expanding my coding expertise 
-- 🤝 I’m looking to collaborate on web/mobile applications
-- 📖 I'm learning and applying machine learning into real life problems
+<h1 align="center">Hey, I'm Daniel Stein 👋</h1>
 
-<!---
-danieljuliusstein/danieljuliusstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-**Connect with me:**
-
-[<img alt="twitter" width="35px" src="twitter.svg" />](https://twitter.com/danielj_stein)
-[<img alt="linked in profile" width="35px" src="linkedin.svg" />](https://www.linkedin.com/in/daniel-stein-8a36b8276/)
-[<img alt="instagram" width="35px" src="instagram.svg" />](https://www.instagram.com/danieljuliusstein/)
-
-**Languages and Tools:**
-
-<img alt="github" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/8700c04d-91a1-456a-a7ab-e02341ecc8b8" />
-<img alt="python" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/ee06c772-0425-4445-90fa-856ee118d124" />
-<img alt="react" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/f40738bc-1988-49d7-a01a-e88ef65889b4" />
-<img alt="css" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/e4e79320-425a-46aa-9e66-453124400ae6" />
-<img alt="html" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/b7d62bb5-7f77-46dc-9996-df05be40dc09" />
-<img alt="visual studio" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/595aba80-a6ac-44b3-9475-8fd5dac70cbd" />
-
-<br>
-</br>
-
-**Learning:**
-
-<img alt="mySql" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/91247300-5607-4eb5-bbcb-30ddde790362" />
-<img alt="sql" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/c272d6ed-c9e7-441c-abe5-efc8e5222e0d" />
-<img alt="nodejs" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/1dd19886-d4ba-4978-b9bf-73f2975d623b" />
-<img alt="react" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/52427d05-d604-43ab-a495-122351cc8157" />
-<img alt="Java" width="35px" src="https://github.com/danieljuliusstein/danieljuliusstein/assets/69329733/560d82ec-16e2-441e-a720-8d697ecc3a50)" />
-
-
-------------------------
-
-**Portfolio/My Work:**
-
-[<img alt="simon" width="100px" src="simon.svg" />](https://github.com/danieljuliusstein/Python-Projects-/blob/main/Simon%20Game)
-[<img alt="mario" width="100px" src="mario-removebg-preview.png" />](https://github.com/danieljuliusstein/Mario-Game)
-[<img alt="crypto" width="150px" src="Crypto.png" />](https://github.com/danieljuliusstein/HTML-/blob/main/CryptoValueCalculator)
-
-**In Progress:**
-
-[<img alt="pass" width="100px" src="passGenerator.png" />](https://github.com/danieljuliusstein/PassGeneratorHTML)
-
-------------------------
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljuliusstein&label=Profile%20views&color=0e75b6&style=flat" alt="danieljuliusstein" /> </p>
-
-<p align="left">
+<p align="center">
+  Computer Engineering @ Georgia Tech<br>
+  Building useful products and connecting software to the physical world.
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljuliusstein&show_icons=true&locale=en" alt="danieljuliusstein" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danieljuliusstein" alt="danieljuliusstein" /></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/daniel-stein-8a36b8276/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://rinsehq.com">
+    <img src="https://img.shields.io/static/v1?message=Rinse&label=&color=2563EB&style=for-the-badge" height="25" alt="Rinse" />
+  </a>
+  <a href="https://twitter.com/danielj_stein">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danieljuliusstein.danieljuliusstein" alt="Profile views" />
+</div>
+
+<h3>👨‍💻 About Me</h3>
+
+<p>
+  I'm a Computer Engineering student at Georgia Tech interested in
+  full-stack development, embedded systems, and autonomous robotics.
+  I enjoy understanding a problem firsthand, building something to solve it,
+  and improving it with feedback from the people using it.
+</p>
+
+<ul>
+  <li>🚗 Founder of <a href="https://rinsehq.com">Rinse</a>, software for independent car detailers inspired by my experience running a mobile detailing business.</li>
+  <li>🚁 Co-lead and software lead on Georgia Tech's wildfire drone team, helping bring software, hardware, and onboard systems together.</li>
+  <li>📚 Learning more about reliable systems, autonomous robotics, and practical applications of AI.</li>
+  <li>🤝 Interested in collaborating on useful web/mobile products and projects that connect software with hardware.</li>
+</ul>
+
+<h3>🔭 What I'm Building</h3>
+
+<h4>🚗 Rinse</h4>
+
+<p>
+  Running my own detailing business showed me how much work happens around
+  each job: managing customers, scheduling appointments, and chasing payments.
+  I'm building Rinse to bring those workflows into one place for independent detailers.
+</p>
+
+<p>
+  My work spans the web platform, React Native mobile app, backend infrastructure,
+  and AI-assisted features—with customer conversations helping shape what comes next.
+</p>
+
+<p>
+  <a href="https://rinsehq.com"><strong>Check out Rinse →</strong></a>
+</p>
+
+<h4>🚁 Wildfire Detection Drone</h4>
+
+<p>
+  I'm helping a new team take over an existing drone system and work toward
+  wildfire detection. Alongside leading the software subteam, I help coordinate
+  hardware and software milestones, document onboarding, and plan integration.
+</p>
+
+<p>
+  My technical work includes telemetry, ground-control integration, and
+  communication between the web application, cloud services, and onboard systems.
+</p>
+
+<h3>🛠 Languages and Tools</h3>
+
+<p><strong>Languages</strong></p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+</div>
+
+<p><strong>Web and Mobile</strong></p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React and React Native" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+</div>
+
+<p><strong>Infrastructure and Development</strong></p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" />
+</div>
+
+<p>
+  <strong>Also working with:</strong>
+  Expo · PocketBase · Vercel · SQL · VHDL · MAVLink · ArduPilot SITL · QGroundControl
+</p>
+
+<h3>🔥 My Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=danieljuliusstein&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub contribution streak" />
+</div>
