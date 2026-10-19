@@ -140,7 +140,7 @@
 <br>
 <hr>
 
-<h2><sub>04</sub> &nbsp; GitHub Activity</h2>
+<h2>&gt; GitHub Activity</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=danieljuliusstein&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub contribution streak" />
