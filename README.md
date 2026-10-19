@@ -1,12 +1,12 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer working at a computer" />
 </div>
-<h2>&gt; whoami</h2>
-<h1 align="center">Hey, I'm Daniel Stein 👋</h1>
+
+<h1 align="center">Daniel Stein</h1>
 
 <p align="center">
   Computer Engineering @ Georgia Tech<br>
-  Building useful products and connecting software to the physical world.
+  Founder of Rinse · Software & Embedded Systems
 </p>
 
 <div align="center">
@@ -27,7 +27,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=danieljuliusstein.danieljuliusstein" alt="Profile views" />
 </div>
 
-<h3>👨‍💻 About Me</h3>
+<br>
+<hr>
+
+<h2><sub>01</sub> &nbsp; About Me</h2>
 
 <p>
   I'm a Computer Engineering student at Georgia Tech interested in
@@ -37,15 +40,18 @@
 </p>
 
 <ul>
-  <li>🚗 Founder of <a href="https://rinsehq.com">Rinse</a>, software for independent car detailers inspired by my experience running a mobile detailing business.</li>
-  <li>🚁 Co-lead and software lead on Georgia Tech's wildfire drone team, helping bring software, hardware, and onboard systems together.</li>
-  <li>📚 Learning more about reliable systems, autonomous robotics, and practical applications of AI.</li>
-  <li>🤝 Interested in collaborating on useful web/mobile products and projects that connect software with hardware.</li>
+  <li><strong>Building:</strong> <a href="https://rinsehq.com">Rinse</a>, software for independent car detailers inspired by my experience running a mobile detailing business.</li>
+  <li><strong>Leading:</strong> The software subteam on Georgia Tech's wildfire drone team, while helping coordinate software, hardware, and onboard systems.</li>
+  <li><strong>Exploring:</strong> Reliable systems, autonomous robotics, and practical applications of AI.</li>
+  <li><strong>Open to:</strong> Collaborating on useful web/mobile products and projects that connect software with hardware.</li>
 </ul>
 
-<h3>🔭 What I'm Building</h3>
+<br>
+<hr>
 
-<h4>🚗 Rinse</h4>
+<h2><sub>02</sub> &nbsp; What I'm Building</h2>
+
+<h3>Rinse</h3>
 
 <p>
   Running my own detailing business showed me how much work happens around
@@ -59,15 +65,17 @@
 </p>
 
 <p>
-  <a href="https://rinsehq.com"><strong>Check out Rinse →</strong></a>
+  <a href="https://rinsehq.com"><strong>Explore Rinse →</strong></a>
 </p>
 
-<h4>🚁 Wildfire Detection Drone</h4>
+<br>
+
+<h3>Wildfire Detection Drone</h3>
 
 <p>
-  I'm helping a new team take over an existing drone system and work toward
-  wildfire detection. Alongside leading the software subteam, I help coordinate
-  hardware and software milestones, document onboarding, and plan integration.
+  As co-lead and software lead, I'm helping a new team take over an existing
+  drone system and work toward wildfire detection. I help coordinate hardware
+  and software milestones, document onboarding, and plan integration.
 </p>
 
 <p>
@@ -75,9 +83,12 @@
   communication between the web application, cloud services, and onboard systems.
 </p>
 
-<h3>🛠 Languages and Tools</h3>
+<br>
+<hr>
 
-<p><strong>Languages</strong></p>
+<h2><sub>03</sub> &nbsp; Languages & Tools</h2>
+
+<h4>Languages</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -91,7 +102,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </div>
 
-<p><strong>Web and Mobile</strong></p>
+<h4>Web & Mobile</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React and React Native" />
@@ -105,7 +116,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
 </div>
 
-<p><strong>Infrastructure and Development</strong></p>
+<h4>Infrastructure & Development</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
@@ -119,12 +130,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" />
 </div>
 
+<br>
+
 <p>
-  <strong>Also working with:</strong>
+  <strong>Also working with:</strong><br>
   Expo · PocketBase · Vercel · SQL · VHDL · MAVLink · ArduPilot SITL · QGroundControl
 </p>
 
-<h3>🔥 My Stats</h3>
+<br>
+<hr>
+
+<h2><sub>04</sub> &nbsp; GitHub Activity</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=danieljuliusstein&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub contribution streak" />
