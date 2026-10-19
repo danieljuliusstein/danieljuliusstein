@@ -16,8 +16,8 @@
   <a href="https://rinsehq.com">
     <img src="https://img.shields.io/static/v1?message=Rinse&label=&color=2563EB&style=for-the-badge" height="25" alt="Rinse" />
   </a>
-  <a href="https://twitter.com/danielj_stein">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
+  <a href="https://x.com/stein_danielj">
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="X" />
   </a>
 </div>
 
