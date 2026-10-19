@@ -30,7 +30,7 @@
 <br>
 <hr>
 
-<h2><sub>01</sub> &nbsp; About Me</h2>
+<h2>&gt; About Me</h2>
 
 <p>
   I'm a Computer Engineering student at Georgia Tech interested in
@@ -49,7 +49,7 @@
 <br>
 <hr>
 
-<h2><sub>02</sub> &nbsp; What I'm Building</h2>
+<h2>&gt; What I'm Building</h2>
 
 <h3>Rinse</h3>
 
@@ -86,7 +86,7 @@
 <br>
 <hr>
 
-<h2><sub>03</sub> &nbsp; Languages & Tools</h2>
+<h2>&gt; Languages & Tools</h2>
 
 <h4>Languages</h4>
 
