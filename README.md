@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer working at a computer" />
-</div>
-
 <h1 align="center">Daniel Stein</h1>
 
 <p align="center">
