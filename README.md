@@ -23,10 +23,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=danieljuliusstein.danieljuliusstein" alt="Profile views" />
-</div>
-
 <br>
 <hr>
 
