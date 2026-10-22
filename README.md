@@ -1,11 +1,12 @@
 <h1 align="center">Daniel Stein</h1>
 
+<br>
+
 <p align="center">
   Computer Engineering @ Georgia Tech<br>
   Founder of Rinse · Software & Embedded Systems
 </p>
 
-<br> 
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-stein-8a36b8276/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
