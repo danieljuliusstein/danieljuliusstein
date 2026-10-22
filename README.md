@@ -5,6 +5,7 @@
   Founder of Rinse · Software & Embedded Systems
 </p>
 
+<br> 
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-stein-8a36b8276/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
@@ -20,8 +21,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
   </a>
 </div>
-
-<br>
 
 <br>
 <hr>
